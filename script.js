@@ -29,7 +29,7 @@ var botao = document.getElementById("botao-2");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!22222222222";
+  mensagem.innerHTML = "Olá Mundo!22222222";
 });
 // BOTAO 3
 var botao = document.getElementById("botao-3");
