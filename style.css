@@ -1,0 +1,48 @@
+body {
+  background-color: #2f2d2d;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ddd;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#balao {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+.infos {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  background: rgb(0, 0, 0, 0.7);
+  flex-direction: column;
+  color: #fff;
+}
+#minhaMensagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  color: #fff;
+}
