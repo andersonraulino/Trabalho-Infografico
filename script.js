@@ -22,56 +22,63 @@ var botao = document.getElementById("botao-1");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!";
+  mensagem.innerHTML =
+    "Primeiras experiencias de uso de computador na educação";
 });
 // BATAO 2
 var botao = document.getElementById("botao-2");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá Mundo!22222222";
+  mensagem.innerHTML =
+    "Projeto EDUCAM. Primeiras iniciativas governamentais de tecnologia na educação coordenadas pelo MEC";
 });
 // BOTAO 3
 var botao = document.getElementById("botao-3");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!333333333";
+  mensagem.innerHTML =
+    "Programa de ação imediata em Informática na Educação de 1º e 2º Grau";
 });
 // BOTAO 4
 var botao = document.getElementById("botao-4");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!44444444444";
+  mensagem.innerHTML =
+    "PRONINFE. Programa conceitualmente muito avançado, mas nennhuma ação foi realizada";
 });
 // BOTAO 5
 var botao = document.getElementById("botao-5");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!55555555555";
+  mensagem.innerHTML =
+    "PROINFO. Principal politica nacional de tecnologia educacional do Brasil. Vigente até hoje";
 });
 // BOTAO 6
 var botao = document.getElementById("botao-6");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!66666666666";
+  mensagem.innerHTML =
+    "PROINFO integrado, criado para integrar distintas ações";
 });
 // BOTAO 7
 var botao = document.getElementById("botao-7");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!7777777777";
+  mensagem.innerHTML =
+    "Programa de banda larganna escola. Projeto Um Computador Por Aluno, distribuição de tablets";
 });
 // BOTAO 8
 var botao = document.getElementById("botao-8");
 
 botao.addEventListener("click", function () {
   var mensagem = document.getElementById("minhaMensagem");
-  mensagem.innerHTML = "Olá, mundo!8888888";
+  mensagem.innerHTML = "Programa de Inovação Educação Conectada";
 });
 // BOTAO 9
 var botao = document.getElementById("botao-9");
